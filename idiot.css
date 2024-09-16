@@ -1,0 +1,11 @@
+	body{
+		background-color:grey;
+    }
+	h1{
+		font-size:3.8em;
+		text-align:center;
+		background-color:rgb(10,10,120);
+		color:white;
+		padding-top:7;
+		padding-bottom:20;
+	}
