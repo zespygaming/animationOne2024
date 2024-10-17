@@ -15,3 +15,7 @@
 		color:black;
 		border-radius:5px;
 	}
+	.dont{
+		visibility:hidden;
+		display:none;
+	}
